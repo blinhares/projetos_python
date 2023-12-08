@@ -1,0 +1,874 @@
+equipe,nome,freq
+ALMOXARIFADO,Josivaldo Coelho,27
+ANILHO,Vagner Rodrigues,1
+ANILHO,Mario Manoel,3
+ANILHO,Mailson Araújo,1
+ANILHO,Jucilanio Coelho,1
+ANILHO,José Cirilo,1
+ANILHO,Josivaldo Coelho,3
+ANILHO,Joseildo Ferreira,2
+ANILHO,Jose Alves Jr,1
+ANILHO,Jailson Dias,1
+ANILHO,Iago Sandré,1
+ANILHO,Herlanio,2
+ANILHO,Hamilton Rodrigues,2
+ANILHO,José Felipe,3
+ANILHO,Francisco José Nobrega,1
+ANILHO,Fabio Luiz,1
+ANILHO,Emerson Elesbão,1
+ANILHO,Edvandio Dias,3
+ANILHO,Edmar Batista,4
+ANILHO,Douglas Ribeiro,4
+ANILHO,Damião Matheus,1
+ANILHO,Hamilton Coelho Moreira,1
+ANILHO,Anderson Augusto,1
+ANILHO,Adelmo André,1
+ANILHO,Adelilson Souza,1
+ANILHO,Abimael M.,2
+ANILHO/ESCADA,Mario Manoel,1
+ANILHO/ESCADA,Ray Amorim,1
+ANILHO/ESCADA,Jailson Dias,1
+APOIO,Josivan Lima,5
+APOIO,Ronaldo Jose,1
+APOIO,Romario da Costa,1
+APOIO,Ricardo da Silva Rocha,3
+APOIO,Rafael Castro,1
+APOIO,Moisés Amorim,1
+APOIO,Mauricio Menezes,7
+APOIO,Mario Manoel,1
+APOIO,Marcone Farias,1
+APOIO,Marcelo Rilton,2
+APOIO,Mailson Araújo,1
+APOIO,Maciel de Souza,1
+APOIO,José Janilson,2
+APOIO,José Felipe,3
+APOIO,Jefferson Rodrigues,1
+APOIO,Josivaldo Coelho,7
+APOIO,Clemer Pereira Rocha,4
+APOIO,Abimael M.,3
+APOIO,Adelilson Souza,1
+APOIO,Adelilson da Luz,1
+APOIO,Claiton da Silva Sena,2
+APOIO,Cristovão Lima,1
+APOIO,Douglas Ribeiro,7
+APOIO,Jackson Willlime Gomes,3
+APOIO,Edvandio Dias,3
+APOIO,Erivan de Lima,1
+APOIO,Fabio Dias Marques,5
+APOIO,Fabio Luiz,1
+APOIO,Iago Sodré,1
+APOIO,Iury Rayan,1
+APOIO,Edson Nascimento,1
+ASO,Lucimario Rodrigues,1
+ASO,Vagner Rodrigues,1
+ASO,Nilson dos Santos,1
+ASO,Marcone Farias,1
+ASO,Mailson Araújo,1
+ASO,Jucilanio Coelho,1
+ASO,Jucelio dos Santos,1
+ASO,Jailson Dias,1
+ASO,Hamilton Coelho Moreira,1
+ASO,Eduardo da Cruz,1
+ASO,Eduardo Andrelino,1
+ASO,Carlito de Souza,1
+ASO,Adelmo André,1
+ASO,José Felipe,1
+BALIZA,Marcelo Rilton,9
+BALIZA,Renan Cledson,18
+BALIZA,Marcone Farias,26
+BALIZA,Iziquel Antônio,8
+BALIZA,Eliesio,1
+BALIZA,Edson Nascimento,11
+BALIZA,José Janilson,1
+BALIZA/DESCARGA,Ronaldo Jose,1
+BALIZA/DESCARGA,Eliesio,1
+BALIZA/DESCARGA,José Janilson,1
+BALIZA/DESCARGA,Marcone Farias,1
+BRIGADA,José Felipe,1
+BRIGADA,Marcelo Rilton,1
+BRIGADA,Diego Manoel,1
+BRIGADA,Jailson Dias,1
+BRIGADA,Moisés Amorim,1
+CANTEIRO,Vagner Rodrigues,2
+CANTEIRO,Moisés Amorim,1
+CANTEIRO,Ronaldo Jose,3
+CANTEIRO,Jailson Dias,1
+CANTEIRO,Marcone Farias,1
+CANTEIRO,Adelilson Souza,2
+CHAPAS,Carlos Daniel Batista,2
+CHAPAS,Jailson Dias,3
+CHAPAS,José Cirilo,2
+CHAPAS,Moisés Amorim,3
+CHAPAS,Vagner Rodrigues,2
+CONTAINER,Renan Cledson,1
+CURSO,Jailson Dias,3
+CURSO,Jorlan Rodrigues,4
+CURSO,Iago Sodré,5
+CURSO,Joseildo Ferreira,1
+CURSO,Josivaldo Coelho,1
+CURSO,Josivan Lima,1
+CURSO,José Cirilo,1
+CURSO,João José,4
+CURSO,Lucimario Rodrigues,1
+CURSO,Marcone Santos,5
+CURSO,Marcelo Rilton,2
+CURSO,Marcone Farias,5
+CURSO,Francisco das Chagas Gomes,1
+CURSO,Mario Manoel,2
+CURSO,Moisés Amorim,5
+CURSO,Ray Amorim,1
+CURSO,Renan Cledson,3
+CURSO,Ronaldo Jose,6
+CURSO,Mailson Araújo,2
+CURSO,Fco. das Chagas Gomes,2
+CURSO,Rafael Castro,1
+CURSO,Fco Caninde,1
+CURSO,Fco. Antonio De Sousa,6
+CURSO,Adelmo André,2
+CURSO,Albes Lima,3
+CURSO,Albes Lima do Nascimento,1
+CURSO,Alex Fco. Galvão,3
+CURSO,Anderson Augusto,1
+CURSO,Apolinario Araripe,1
+CURSO,Carlos Daniel Batista,1
+CURSO,Damião Matheus,1
+CURSO,Abmario,5
+CURSO,Edmar Batista,3
+CURSO,Edvandio Dias,1
+CURSO,Eliesio,4
+CURSO,Emerson Elesbão,1
+CURSO,Erivan de Lima,2
+CURSO,Eudison Veras,6
+CURSO,Fabio Henrique Soares,1
+CURSO,Fabricio Dias da Cruz,6
+CURSO,Fagner Amorim,1
+CURSO,Diego Manoel,1
+DESCARGA,Renan Cledson,2
+DESCARGA,Marcone Farias,1
+DESCARGA,Marcelo Rilton,1
+DESCARGA,Eudison Veras,1
+DESCARGA,Edson Nascimento,1
+DESCARGA,Edmar Batista,1
+DESCARGA,Albes Lima do Nascimento,1
+DESCARGA,Abmario,1
+DESCARGA,Eliesio,1
+DESCARGAS,Renan Cledson,9
+DESCARGAS,Marcone Santos,6
+DESCARGAS,Marcone Farias,3
+DESCARGAS,Fco. Anderson Pires,9
+DESCARGAS,Marcelo Rilton,5
+DESCARGAS,José Janilson,1
+DESCARGAS,Jorlan Rodrigues,1
+DESCARGAS,Iago Sodré,9
+DESCARGAS,Fco Caninde,1
+DESCARGAS,Albes Lima do Nascimento,1
+DESCARGAS,Eliesio,1
+DESCARGAS,Edson Nascimento,2
+DESCARGAS,Edmar Batista,1
+DESCARGAS,Apolinario Araripe,12
+DESCARGAS,Alex Fco. Xavier,2
+DESCARGAS,Albes Lima,9
+DESCARGAS,Abmario,5
+DESCARGAS,Eudison Veras,5
+DIVERSOS,Fabio Henrique Soares,1
+DIVERSOS,Damião Matheus,1
+DIVERSOS,Adelmo André,1
+DIVERSOS,Anderson Augusto,1
+DOKAS,Jorlan Rodrigues,14
+DOKAS,Iago Sodré,3
+DOKAS,Jackson Willlime,5
+DOKAS,Jackson Willlime Gomes,1
+DOKAS,Jefferson Barros,25
+DOKAS,João José,40
+DOKAS,Vilson,1
+DOKAS,Marcone Santos,3
+DOKAS,Mario Manoel,6
+DOKAS,Ray Amorim,1
+DOKAS,Romario da Costa,11
+DOKAS,Herlanio,2
+DOKAS,Marcelo Rilton,2
+DOKAS,Francisco das Chagas Gomes,7
+DOKAS,Fabio Henrique Soares,18
+DOKAS,Fco Caninde,4
+DOKAS,Albes Lima do Nascimento,3
+DOKAS,Anderson Augusto,1
+DOKAS,Apolinario,2
+DOKAS,Carlos Daniel Batista,28
+DOKAS,Cristovão Lima,1
+DOKAS,Alex Fco. Xavier,2
+DOKAS,Edmar Batista,1
+DOKAS,Erivan de Lima,25
+DOKAS,Eudison Veras,6
+DOKAS,Fco. das Chagas Gomes,21
+DOKAS,Fabio Luiz,1
+DOKAS,Damião Matheus,6
+EJV,Adelilson da Luz,5
+EJV,Alonso Mendes,2
+EJV,Douglas Ribeiro,5
+EJV,Jefferson Rodrigues,5
+EJV,Moisés Amorim,5
+EJV,Vagner Rodrigues,4
+ENCOFRADO,Mailson Araújo,1
+ENCOFRADO,Moisés Amorim,1
+ENCOFRADO,Mario Manoel,2
+ENCOFRADO,Lucimario Rodrigues,1
+ENCOFRADO,Marcelo Rilton,1
+ENCOFRADO,Hamilton Coelho Moreira,1
+ENCOFRADO,Cristovão Lima,1
+ENCOFRADO,Apolinario,1
+ENCOFRADO,Albes Lima do Nascimento,1
+ENCOFRADO,João José,1
+ESCADA,Albes Lima do Nascimento,6
+ESCADA,Alex Fco. Xavier,6
+ESCADA,Apolinario,1
+ESCADA,Jailson Dias,3
+ESCADA,João José,6
+ESCADA,Mario Manoel,9
+ESCADA,Ray Amorim,4
+ESCADAS,Jailson Dias,1
+ESCADAS,Marcone Farias,1
+EXAME,Jorlan Rodrigues,1
+EXAME,Edmar Batista,1
+FERRALHA,Vilson,28
+FERRALHA,Vagner Rodrigues,58
+FERRALHA,Romario da Costa,3
+FERRALHA,Renan Cledson,1
+FERRALHA,Ray Amorim,1
+FERRALHA,Moisés Amorim,52
+FERRALHA,Mario Manoel,1
+FERRALHA,Marcone Farias,1
+FERRALHA,Mailson Araújo,1
+FERRALHA,Lucimario Rodrigues,14
+FERRALHA,José Cirilo,20
+FERRALHA,Jefferson Rodrigues,13
+FERRALHA,Jailson Dias,4
+FERRALHA,Alonso Mendes Ferreira,1
+FERRALHA,Hamilton Coelho Moreira,15
+FERRALHA,Guilhermário C.,1
+FERRALHA,Erivan de Lima,10
+FERRALHA,Eduardo da Cruz,5
+FERRALHA,Eduardo Andrelino,1
+FERRALHA,Edson Nascimento,19
+FERRALHA,Cristovão Lima,7
+FERRALHA,Carlos Daniel Batista,32
+FERRALHA,Carlito de Souza,1
+FERRALHA,Alonso Mendes,8
+FERRALHA,Adelilson da Luz,4
+FERRALHA,Abimael M.,1
+FERRALHA,Iziquel Antônio,2
+FERRALHA/,Vilson,3
+FERRALHA/,Vagner Rodrigues,5
+FERRALHA/,Moisés Amorim,5
+FERRALHA/,Douglas Ribeiro,2
+FERRALHA/,Adelilson da Luz,5
+FERRALHA/,Jefferson Rodrigues,5
+"FERRALHA/GEO
+5:00",Damião Matheus,1
+"FERRALHA/GEO
+5:00",Erivan de Lima,1
+"FERRALHA/GEO
+5:00",Moisés Amorim,1
+"FERRALHA/GEO
+5:00",Vagner Rodrigues,1
+"FERRALHA/GEO
+6:00",Vagner Rodrigues,1
+"FERRALHA/GEO
+6:00",Moisés Amorim,1
+"FERRALHA/GEO
+6:00",Erivan de Lima,1
+"FERRALHA/GEO
+6:00",Emerson Elesbão,1
+"FERRALHA/GEO
+6:00",Jucilanio Coelho,1
+FERRALHA/GEO/EJV,Vagner Rodrigues,2
+FERRALHA/GEO/EJV,Emerson Elesbão,2
+FERRALHA/GEO/EJV,Erivan de Lima,2
+FERRALHA/GEO/EJV,Jucilanio Coelho,2
+FERRALHA/GEO/EJV,Moisés Amorim,2
+FERRALHA/GEOMETRIA,Mario Manoel,1
+FERRALHA/GEOMETRIA,Nilson dos Santos,1
+FERRALHA/GEOMETRIA,Eduardo da Cruz,1
+FERRALHA/GEOMETRIA,Lucimario Rodrigues,1
+FIXAÇÃO,Albes Lima,3
+FIXAÇÃO,Apolinario Araripe,2
+FIXAÇÃO,Eliesio,3
+FIXAÇÃO,Eudison Veras,1
+FIXAÇÃO,Jackson Willlime,2
+FIXAÇÃO,Jailson Dias,1
+GEOMETRIA/EJV,Vagner Rodrigues,1
+GEOMETRIA/EJV,Moisés Amorim,1
+GEOMETRIA/EJV,Jefferson Rodrigues,1
+GEOMETRIA/EJV,Douglas Ribeiro,1
+GEOMETRIA/EJV,Adelilson da Luz,1
+HJH,Nilson dos Santos,65
+HJH,Mario Manoel,35
+HJH,Marciel de Souza,9
+HJH,Maciel de Souza,1
+HJH,Lucimario Rodrigues,60
+HJH,Joseildo Ferreira,1
+HJH,Herlanio,12
+HJH,Hamilton Coelho Moreira,34
+HJH,Fabio Luiz,3
+HJH,Guilhermário C.,14
+HJH,Fabio Henrique Soares,6
+HJH,Fabio Dias Marques,2
+HJH,Eduardo da Cruz,49
+HJH,Douglas Ribeiro,9
+HJH,Alonso Mendes,1
+HJH,Adelilson Souza,3
+HJH,Hamilton Coelho,31
+HJV,Iago Sandré,4
+HJV,Jorlan Rodrigues,4
+HJV,Jose Alves Jr,9
+HJV,Jucelio dos Santos,6
+HJV,Maurivan Coelho,49
+HJV,José Felipe,16
+HJV,Francisco José Nobrega,28
+HJV,Josivaldo Coelho,3
+HJV,Fco. Simão,39
+HJV,José Cirilo,17
+HJV,Fagner Amorim,49
+HJV,Fco. José Nobrega,3
+HJV,Adelmo André,17
+HJV,Alonso Mendes,3
+HJV,Anderson Augusto,39
+HJV,Adelilson Souza,27
+HJV,Douglas Ribeiro,10
+HJV,Edmar Batista,10
+HJV,Entony Gonçalves de Menezes,26
+HJV,Damião Matheus,30
+"HJV
+05:00H",Francisco José Nobrega,1
+"HJV
+05:00H",Ricardo da Silva Rocha,15
+"HJV
+05:00H",Marcelo Victor Eneas,6
+"HJV
+05:00H",Jucelio dos Santos,3
+"HJV
+05:00H",José Felipe,2
+"HJV
+05:00H",Josivaldo Coelho,1
+"HJV
+05:00H",Iago Sandré,5
+"HJV
+05:00H",Fco. Simão,20
+"HJV
+05:00H",Maurivan Coelho,15
+"HJV
+05:00H",Fagner Amorim,16
+"HJV
+05:00H",Fabio Luiz,15
+"HJV
+05:00H",Fabio Dias Marques,6
+"HJV
+05:00H",Entony Gonçalves de Menezes,3
+"HJV
+05:00H",Edvandio Dias,1
+"HJV
+05:00H",Damião Matheus,13
+"HJV
+05:00H",Claiton da Silva Sena,2
+"HJV
+05:00H",Anderson Augusto,13
+"HJV
+05:00H",Fco. José Nobrega,10
+"HJV
+06:00H",Anderson Augusto,1
+"HJV
+06:00H",Fabio Luiz,1
+"HJV
+06:00H",Fco. Simão,1
+"HJV
+06:00H",Ricardo da Silva Rocha,1
+"HJV
+07:00H",Francisco José Nobrega,3
+"HJV
+07:00H",Ricardo da Silva Rocha,1
+"HJV
+07:00H",Maurivan Coelho,6
+"HJV
+07:00H",Iago Sandré,2
+"HJV
+07:00H",Fco. Simão,3
+"HJV
+07:00H",Fagner Amorim,6
+"HJV
+07:00H",Fabio Luiz,3
+"HJV
+07:00H",Damião Matheus,6
+"HJV
+07:00H",Anderson Augusto,3
+"HJV
+07:00H",Fco. José Nobrega,3
+"HJV
+13:00H",Francisco das Chagas Gomes,1
+"HJV
+13:00H",Romario da Costa,3
+"HJV
+13:00H",Ricardo da Silva Rocha,14
+"HJV
+13:00H",Renan Cledson,2
+"HJV
+13:00H",Maurivan Coelho,24
+"HJV
+13:00H",Marcelo Victor Eneas,11
+"HJV
+13:00H",Jucelio dos Santos,4
+"HJV
+13:00H",José Felipe,6
+"HJV
+13:00H",Josivaldo Coelho,4
+"HJV
+13:00H",Iago Sandré,9
+"HJV
+13:00H",Francisco José Nobrega,9
+"HJV
+13:00H",Iago Sodré,2
+"HJV
+13:00H",Fco. José Nobrega,17
+"HJV
+13:00H",Alonso Mendes,6
+"HJV
+13:00H",Damião Matheus,14
+"HJV
+13:00H",Douglas Ribeiro,3
+"HJV
+13:00H",Edvandio Dias,2
+"HJV
+13:00H",Entony Gonçalves,3
+"HJV
+13:00H",Anderson Augusto,14
+"HJV
+13:00H",Fabio Dias Marques,8
+"HJV
+13:00H",Fco. Simão,17
+"HJV
+13:00H",Fabio Luiz,16
+"HJV
+13:00H",Fagner Amorim,19
+"HJV
+13:00H",Entony Gonçalves de Menezes,2
+HORMIGONADO,Emerson Elesbão,1
+HORMIGONADO,Iago Sandré,1
+HORMIGONADO,José Felipe,1
+HORMIGONADO,Jucelio dos Santos,1
+INTEGRAÇÃO,Ray Amorim,1
+INTEGRAÇÃO,Cristovão Lima,1
+INTEGRAÇÃO,Douglas Ribeiro,1
+INTEGRAÇÃO,Jorge,1
+"INTEGRAÇÃO
+09:00",Renan Cledson,1
+"INTEGRAÇÃO
+09:00",Eduardo Andrelino,1
+ISOLAMENTO,Abmario,5
+ISOLAMENTO,Albes Lima do Nascimento,2
+ISOLAMENTO,Alex Fco. Xavier,2
+ISOLAMENTO,Fabio Henrique Soares,2
+ISOLAMENTO,Marcelo Rilton,2
+ISOLAMENTO,Marcone Farias,6
+ISOLAMENTO,Marcone Santos,2
+ISOLAMENTO,Romario da Costa,2
+ISOLAMENTO,Vilson,2
+LIMPEZA,Hamilton Coelho,1
+LIMPEZA,Josivaldo Coelho,12
+LIMPEZA,José Cirilo,1
+LIMPEZA,Mailson Araújo,1
+LIMPEZA,Vagner Rodrigues,1
+LIMPEZA,Mario Manoel,1
+LIMPEZA,Nilson dos Santos,13
+LIMPEZA,Romario da Costa,5
+LIMPEZA,Gilson da Silva,1
+LIMPEZA,Marcelo Victor Eneas,1
+LIMPEZA,Fco. Antonio De Sousa,1
+LIMPEZA,Maurivan Coelho,4
+LIMPEZA,Fabio Luiz,1
+LIMPEZA,Adelilson da Luz Souza,1
+LIMPEZA,Claiton da Silva Sena,2
+LIMPEZA,Fagner Amorim,4
+LIMPEZA,Douglas Ribeiro,2
+LIMPEZA,Edmar Batista,25
+LIMPEZA,Damião Matheus,4
+LIMPEZA,Edvandio Dias,1
+LIMPEZA,Entony Gonçalves,13
+LIMPEZA,Entony Gonçalves de Menezes,4
+LIMPEZA,Erivan de Lima,2
+LIMPEZA,Eduardo da Cruz,1
+"LIMPEZA
+10:00",Carlito de Souza,1
+"LIMPEZA
+10:00",Jucelio dos Santos,1
+"LIMPEZA
+10:00",Marcone Farias,1
+LOUSAS,José Cirilo,1
+LOUSAS,Mailson Araújo,1
+LOUSAS,José Felipe,1
+LOUSAS,Joseildo Ferreira,1
+LOUSAS,Fabricio Dias da Cruz,1
+LOUSAS,Hamilton Rodrigues,1
+LOUSAS,Edvandio Dias,1
+LOUSAS,Edson Nascimento,1
+LOUSAS,Jailson Dias,1
+MONTAGEM,Jucilanio Coelho,13
+MONTAGEM,Ray Amorim,4
+MONTAGEM,Rafael Castro,8
+MONTAGEM,Nilson dos Santos,1
+MONTAGEM,Mario Manoel,12
+MONTAGEM,Marcelo Rilton,7
+MONTAGEM,Mailson Araújo,5
+MONTAGEM,Renan Cledson,1
+MONTAGEM,Maciel de Souza,2
+MONTAGEM,Lucimario Rodrigues,1
+MONTAGEM,João José,7
+MONTAGEM,Damião Matheus,1
+MONTAGEM,Fco. Anderson Pires,2
+MONTAGEM,Fco Caninde,3
+MONTAGEM,Fabio Henrique Soares,7
+MONTAGEM,Cristovão Lima,13
+MONTAGEM,Apolinario,3
+MONTAGEM,Anderson Augusto,12
+MONTAGEM,Alex Fco. Xavier,4
+MONTAGEM,Albes Lima do Nascimento,7
+MONTAGEM,Adelmo André,19
+MONTAGEM,José Felipe,6
+"MONTAGEM
+19:00H",Rafael Castro,3
+"MONTAGEM
+19:00H",Maciel de Souza,3
+"MONTAGEM
+19:00H",Jucilanio Coelho,3
+"MONTAGEM
+19:00H",Cristovão Lima,3
+"MONTAGEM
+19:00H",Fco. Anderson Pires,3
+"MONTAGEM
+A",João José,1
+"MONTAGEM
+A",Ray Amorim,6
+"MONTAGEM
+A",Rafael Castro,64
+"MONTAGEM
+A",Nilson dos Santos,2
+"MONTAGEM
+A",Mario Manoel,11
+"MONTAGEM
+A",Marcone Farias,1
+"MONTAGEM
+A",Mailson Araújo,6
+"MONTAGEM
+A",Maciel de Souza,11
+"MONTAGEM
+A",Jucilanio Coelho,63
+"MONTAGEM
+A",José Janilson,1
+"MONTAGEM
+A",Cristovão Lima,58
+"MONTAGEM
+A",Gilson da Silva,16
+"MONTAGEM
+A",Anderson Augusto,1
+"MONTAGEM
+A",Apolinario Araripe,1
+"MONTAGEM
+A",Damião Matheus,7
+"MONTAGEM
+A",Adelmo André,57
+"MONTAGEM
+A",Fco Caninde,44
+"MONTAGEM
+A",Fco. Anderson Pires,1
+"MONTAGEM
+A",Francisco das Chagas Gomes,2
+"MONTAGEM
+A",Fabio Henrique Soares,1
+"MONTAGEM
+A",José Felipe,1
+MUNCK,Jefferson Barros,26
+MUNCK,João José,1
+MUNCK,Jefferson Rodrigues,1
+MUNCK,Jorlan Rodrigues,39
+MUNCK,Jose Alves Jr,12
+MUNCK,Joseildo Ferreira,1
+MUNCK,Josivaldo Coelho,8
+MUNCK,José Cirilo,2
+MUNCK,José Felipe,1
+MUNCK,Mauricio Menezes,1
+MUNCK,Maciel de Souza,9
+MUNCK,Mailson Araújo,5
+MUNCK,Marciel de Souza,4
+MUNCK,Jackson Willlime,6
+MUNCK,Maurivan Coelho,3
+MUNCK,Ray Amorim,3
+MUNCK,Romario da Costa,21
+MUNCK,Ronaldo Jose,19
+MUNCK,Vagner Rodrigues,1
+MUNCK,Vilson,2
+MUNCK,Lucimario Rodrigues,2
+MUNCK,Iziquel Antônio,3
+MUNCK,Jucelio dos Santos,36
+MUNCK,Iago Sodré,1
+MUNCK,Italo dos Santos Carvalho,3
+MUNCK,Adelilson da Luz,3
+MUNCK,Adelmo André,1
+MUNCK,Carlito de Souza,2
+MUNCK,Carlos Daniel Batista,15
+MUNCK,Claiton da Silva Sena,27
+MUNCK,Clemer Pereira Rocha,28
+MUNCK,Damião Matheus,2
+MUNCK,Diego Manoel,3
+MUNCK,Douglas Ribeiro,10
+MUNCK,Edmar Batista,14
+MUNCK,Eduardo da Cruz,5
+MUNCK,Edvandio Dias,1
+MUNCK,Emerson Elesbão,3
+MUNCK,Entony Gonçalves de Menezes,6
+MUNCK,Erivan de Lima,4
+MUNCK,Fabio Luiz,28
+MUNCK,Francisco José Nobrega,2
+MUNCK,Francisco das Chagas Gomes,1
+MUNCK,Geová Mendes,14
+MUNCK,Iago Sandré,19
+MUNCK,Edson Nascimento,13
+"MUNCK
+5:00",Erivan de Lima,1
+"MUNCK
+5:00",Edmar Batista,1
+OBSERVACAO,Jorlan Rodrigues,4
+OBSERVACAO,Mailson Araújo,1
+OBSERVACAO,Douglas Ribeiro,1
+OBSERVACAO,Edmar Batista,4
+OBSERVAÇÃO,Adelilson Souza,2
+OBSERVAÇÃO,Anderson Augusto,3
+OBSERVAÇÃO,Cristovão Lima,2
+OBSERVAÇÃO,Fco. Simão,4
+OBSERVAÇÃO,Francisco José Nobrega,4
+OREJETA,Moisés Amorim,1
+OREJETA,Vagner Rodrigues,1
+ORGANIZA.,Edvandio Dias,1
+PIPA,Damião Matheus,1
+PIPA/,Edvandio Dias,1
+PIPA/,Lucimario Rodrigues,1
+PIPA/,Adelmo André,1
+PIPA/,Claiton da Silva Sena,1
+PRE-MONTAJE,Renan Cledson,7
+PRE-MONTAJE,Ray Amorim,21
+PRE-MONTAJE,Jailson Dias,33
+PRE-MONTAJE,Guilhermário C.,33
+PRE-MONTAJE,Mailson Araújo,14
+PRE-MONTAJE,Fco. Antonio De Sousa,19
+PRE-MONTAJE,Edvandio Dias,2
+PRE-MONTAJE,Damião Matheus,2
+PRE-MONTAJE,Gilson da Silva,33
+PREMONTAGEM,José Felipe,5
+PREMONTAGEM,Vagner Rodrigues,2
+PREMONTAGEM,Ray Amorim,35
+PREMONTAGEM,Mauricio Menezes,23
+PREMONTAGEM,José Janilson,28
+PREMONTAGEM,Jailson Dias,6
+PREMONTAGEM,Abimael M.,3
+PREMONTAGEM,Gilson da Silva,47
+PREMONTAGEM,Fco. Antonio De Sousa,39
+PREMONTAGEM,Douglas Ribeiro,1
+PREMONTAGEM,Abmario,4
+PREMONTAGEM,Guilhermário C.,41
+"PREMONTAGEM
+06:00H",Fco. Antonio De Sousa,1
+"PREMONTAGEM
+06:00H",Gilson da Silva,1
+"PREMONTAGEM
+06:00H",Guilhermário C.,1
+"PREMONTAGEM
+06:00H",José Felipe,1
+"PREMONTAGEM
+06:00H",Mauricio Menezes,1
+"PREMONTAGEM
+12:00H",Ray Amorim,2
+"PREMONTAGEM
+12:00H",José Janilson,1
+"PREMONTAGEM
+12:00H",Mauricio Menezes,1
+"PREMONTAGEM
+12:00H",Gilson da Silva,2
+"PREMONTAGEM
+12:00H",Fco. Antonio De Sousa,2
+"PREMONTAGEM
+12:00H",Guilhermário C.,2
+"PREMONTAGEM
+A",Abmario,2
+"PREMONTAGEM
+A",Fco. Antonio De Sousa,4
+"PREMONTAGEM
+A",Gilson da Silva,4
+"PREMONTAGEM
+A",Guilhermário C.,4
+"PREMONTAGEM
+A",José Janilson,2
+"PREMONTAGEM
+A",Ray Amorim,4
+PREP.,Jailson Dias,1
+PREP.,Ronaldo Jose,1
+PREP.,Renan Cledson,6
+PREP.,Marcone Santos,6
+PREP.,Marcone Farias,4
+PREP.,Marcelo Rilton,6
+PREP.,Fabio Henrique Soares,1
+PREP.,Abmario,4
+PREP.,Eliesio,1
+PREP.,Apolinario Araripe,1
+PREP.,Alex Fco. Xavier,5
+PREP.,Alex Fco. Galvão,1
+PREP.,Albes Lima do Nascimento,4
+PREP.,Albes Lima,1
+PREP.,Eudison Veras,4
+PREPARAÇÃO,Guilhermário C.,3
+PREPARAÇÃO,Renan Cledson,15
+PREPARAÇÃO,Marcone Santos,19
+PREPARAÇÃO,Marcone Farias,15
+PREPARAÇÃO,Marcelo Rilton,14
+PREPARAÇÃO,José Janilson,9
+PREPARAÇÃO,Jailson Dias,2
+PREPARAÇÃO,Iago Sodré,8
+PREPARAÇÃO,Fco. Anderson Pires,3
+PREPARAÇÃO,Jackson Willlime,2
+PREPARAÇÃO,Fabio Dias Marques,2
+PREPARAÇÃO,Abmario,12
+PREPARAÇÃO,Alex Fco. Galvão,20
+PREPARAÇÃO,Apolinario Araripe,12
+PREPARAÇÃO,Edmar Batista,19
+PREPARAÇÃO,Albes Lima,6
+PREPARAÇÃO,Fco Caninde,4
+PREPARAÇÃO,Eliesio,23
+PREPARAÇÃO,Eudison Veras,19
+PREPARAÇÃO,Edson Nascimento,20
+REPLANTEIO,Josivan Lima,21
+REPLANTEIO,Moisés Amorim,1
+REPLANTEIO,Lucimario Rodrigues,1
+REPLANTEIO,Jucilanio Coelho,13
+REPLANTEIO,Jucelio dos Santos,42
+REPLANTEIO,José Felipe,4
+REPLANTEIO,José Cirilo,2
+REPLANTEIO,Jefferson Rodrigues,4
+REPLANTEIO,Romario da Costa,1
+REPLANTEIO,Iziquel Antônio,3
+REPLANTEIO,Fco. Antonio De Sousa,15
+REPLANTEIO,Emerson Elesbão,60
+REPLANTEIO,Eduardo Andrelino,91
+REPLANTEIO,Douglas Ribeiro,1
+REPLANTEIO,Diego Manoel,73
+REPLANTEIO,Damião Matheus,8
+REPLANTEIO,Carlito de Souza,78
+REPLANTEIO,Jackson Willlime,18
+RESINA,Vagner Rodrigues,11
+RESINA,Moisés Amorim,11
+RESINA,Jefferson Rodrigues,6
+RESINA,Iziquel Antônio,3
+RESINA,Vilson,6
+RESINA,Damião Matheus,2
+RESINA,Cristovão Lima,1
+RESINA,Adelilson da Luz,6
+RESINA,Erivan de Lima,5
+"RESINA
+5:00",Cristovão Lima,1
+"RESINA
+5:00",Erivan de Lima,1
+"RESINA
+5:00",Iziquel Antônio,1
+"RESINA
+5:00",Moisés Amorim,1
+"RESINA
+5:00",Vagner Rodrigues,1
+SUPLIDOS,Herlanio,34
+SUPLIDOS,Jailson Dias,1
+SUPLIDOS,Joseildo Ferreira,38
+SUPLIDOS,Josivaldo Coelho,7
+SUPLIDOS,José Felipe,48
+SUPLIDOS,Marciel de Souza,1
+SUPLIDOS,Jucelio dos Santos,1
+SUPLIDOS,Maciel de Souza,1
+SUPLIDOS,Renan Cledson,2
+SUPLIDOS,Marcone Farias,12
+SUPLIDOS,Hamilton Rodrigues,2
+SUPLIDOS,João José,1
+SUPLIDOS,Francisco das Chagas Gomes,1
+SUPLIDOS,Alonso Mendes,7
+SUPLIDOS,Fabio Luiz,5
+SUPLIDOS,Eudison Veras,2
+SUPLIDOS,Erivan de Lima,10
+SUPLIDOS,Edvandio Dias,76
+SUPLIDOS,Eduardo da Cruz,5
+SUPLIDOS,Eduardo Andrelino,1
+SUPLIDOS,Edson Nascimento,9
+SUPLIDOS,Douglas Ribeiro,15
+SUPLIDOS,Carlos Daniel Batista,1
+SUPLIDOS,Carlito de Souza,18
+SUPLIDOS,Adelilson Souza,15
+SUPLIDOS,Abimael M.,45
+SUPLIDOS,Fagner Amorim,1
+TENDÕES,Mailson Araújo,8
+TENDÕES,José Cirilo,8
+TENDÕES,Edson Nascimento,1
+TENDÕES,Fabricio Dias da Cruz,8
+TENDÕES,Jailson Dias,8
+TENSIONADO,Abmario,1
+TENSIONADO,Edmar Batista,1
+TENSIONADO,Marcone Farias,1
+TESTE,Francisco José Nobrega,1
+TESTE,Marcone Farias,1
+TESTE,Marcelo Rilton,1
+TESTE,Mailson Araújo,1
+TESTE,Iago Sandré,1
+TESTE,Fco. Simão,1
+TESTE,Albes Lima do Nascimento,1
+TESTE,Cristovão Lima,1
+TESTE,Anderson Augusto,2
+TESTE,Alex Fco. Xavier,1
+TESTE,Adelilson Souza,1
+TESTE,Abmario,1
+TESTE,Douglas Ribeiro,1
+TRAMITES,Adelmo André,1
+TREINAMENTO,Jose Alves Jr,1
+TREINAMENTO,Josinaldo Gomes,1
+TREINAMENTO,José Aderlânio,1
+TREINAMENTO,José Alvez,1
+TREINAMENTO,Roniel Amorim,1
+TREINAMENTO,Mario Manoel,1
+TREINAMENTO,Marcone Farias,1
+TREINAMENTO,Nilson dos Santos,1
+TREINAMENTO,Renan Cledson,1
+TREINAMENTO,Hamilton Coelho Moreira,1
+TREINAMENTO,Lucimario Rodrigues,1
+TREINAMENTO,Geová Mendes,1
+TREINAMENTO,Eduardo da Cruz,1
+TREINAMENTO,Francisco José Nobrega,1
+TREINAMENTO,Fábio Luiz,1
+TREINAMENTO,Alex Ferreira,1
+TREINAMENTO,Cristovão Lima,1
+TREINAMENTO,Edmar Batista,1
+TREINAMENTO,Abimael M.,1
+TREINAMENTO,Edvandio Dias,1
+TREINAMENTO,Entony Gonçalves de Menezes,1
+TREINAMENTO,Fagner Felipe Domingos,1
+TREINAMENTO,Francisco José,1
+TREINAMENTO,Edson Nascimento,1
+V.S.L,Fabricio Dias da Cruz,21
+V.S.L,Ronaldo Jose,12
+V.S.L,Moisés Amorim,6
+V.S.L,Mailson Araújo,48
+V.S.L,José Felipe,1
+V.S.L,José Cirilo,22
+V.S.L,Josivan Lima,5
+V.S.L,Jailson Dias,32
+V.S.L,Fabricio Dias Marques,6
+V.S.L,Emerson Elesbão,11
+V.S.L,Fabio Dias Marques,11
+V.S.L,Eudison Veras,21
+V.S.L,Edson Nascimento,14
+V.S.L,Edmar Batista,1
+V.S.L,Diego Manoel,8
+V.S.L,Anderson Augusto,2
+V.S.L,Albes Lima do Nascimento,3
+V.S.L,Fabricio Dias,4
+VACINA,Adelilson Souza,1
+VACINACAO,Edvandio Dias,1
+VSL,Emerson Elesbão,1
+VSL,Mailson Araújo,1
