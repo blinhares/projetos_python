@@ -1,3 +1,6 @@
+'''CLASSIFICANDO TRINGULOS'''
+
+
 def is_triangle(f):
     def inner(sides):
         return sum(sides) > 2 * max(sides) and f(sides)
