@@ -1,7 +1,7 @@
 from typing import Optional
 # import PySide6.QtCore
-from PySide6.QtWidgets import QApplication, QMainWindow, \
-    QVBoxLayout, QWidget, QLabel, QMessageBox
+from PySide6.QtWidgets import  QMainWindow, \
+    QVBoxLayout, QWidget, QMessageBox
 from PySide6.QtGui import QIcon
 from variables import WINDOW_ICON_PATH
 
@@ -40,5 +40,5 @@ class MainWindow(QMainWindow):
         self.vlayout.addWidget(widget)
 
     #adiciona recurso para enviar msg ao usuario  
-    def make_mdg_box(self):
+    def make_msg_box(self):
         return QMessageBox(self)

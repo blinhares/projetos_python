@@ -200,7 +200,7 @@ class ButtonGrid(QGridLayout):
 
 
     def _show_error(self, text):
-        msgbox = self.window.make_mdg_box()
+        msgbox = self.window.make_msg_box()
         msgbox.setText(text)
         msgbox.setIcon(msgbox.Icon.Warning)
         #muda o botao padrao da caixa e menssagem
@@ -212,7 +212,7 @@ class ButtonGrid(QGridLayout):
         self.display.setFocus()#volta o foco para o qlabel
 
     def _show_info(self, text):
-        msgbox = self.window.make_mdg_box()
+        msgbox = self.window.make_msg_box()
         msgbox.setText(text)
         msgbox.setIcon(msgbox.Icon.Information)
         #muda o botao padrao da caixa e menssagem
